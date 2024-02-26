@@ -1,0 +1,12 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Collections">
+
+    <test name="Google test">
+        <classes>
+            <class name="Google"></class>
+        </classes>
+    </test>
+
+</suite>
