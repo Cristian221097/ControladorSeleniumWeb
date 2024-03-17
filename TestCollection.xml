@@ -4,8 +4,9 @@
 <suite name="Collections">
 
     <test name="Google test">
+        <parameter name="browserName" value="CHROME"></parameter>
         <classes>
-            <class name="Google"></class>
+            <class name="Test"></class>
         </classes>
     </test>
 
